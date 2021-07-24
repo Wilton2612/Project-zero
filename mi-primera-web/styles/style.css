@@ -1,0 +1,37 @@
+
+  html {
+    font-size: 10px;
+    font-family: 'Barlow', sans-serif;
+    background-color:rgba(246, 249, 248, 0.81)
+   }
+
+   h1
+    {
+     font-size: 50px;
+     text-align: center;
+     margin: 0;
+     padding: 20px, 0;
+     color: rgb(251, 6, 190)
+
+     }
+
+  p, li {
+
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+   }
+
+   body
+         {
+     width: 678px;
+     margin: 0 auto;
+     background-color: rgb(42, 56, 231)
+     padding: 0, 20px, 20px, 20px;
+     border: 6px  solid black;
+     }
+
+     img{
+       display: block;
+       margin: 0 auto;
+     }
